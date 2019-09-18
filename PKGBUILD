@@ -9,7 +9,7 @@ license=('GPL')
 depends=()
 optdepends=()
 install="${pkgname}.install"
-url="https://github.com/fghibellini/arch-silence"
+url="https://github.com/ODEX-TOS/grub-theme"
 source=('git+https://github.com/ODEX-TOS/grub-theme')
 makedepends=('git') 
 md5sums=('SKIP')
@@ -20,6 +20,6 @@ pkgver() {
 } 
 
 package() {
-  mkdir -p "${pkgdir}/boot/grub/themes/arch-silence"
-  cp -TR "${srcdir}/arch-silence/theme" "${pkgdir}/boot/grub/themes/arch-silence"
+  mkdir -p "${pkgdir}/boot/grub/themes/tos"
+  cp -TR "${srcdir}/grub-theme/theme" "${pkgdir}/boot/grub/themes/tos"
 }
