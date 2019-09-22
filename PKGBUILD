@@ -1,7 +1,7 @@
 # Maintainer : Meyers Tom <tom@odex.be>
 
 pkgname=tos-grub-theme
-pkgver=r1.3c851d8
+pkgver=r2.129b5f4
 pkgrel=1
 pkgdesc="TOS - GRUB2 theme"
 arch=('any')
