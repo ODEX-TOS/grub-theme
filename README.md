@@ -1,7 +1,9 @@
 
-# Arch-Silence GRUB2 theme
+# TOS Grub theme
 
-My flat GRUB2 theme.
+based on Arch silent theme
+
+GRUB2 compliant theme.
 
 <img src="./preview.png" width="400">
 
@@ -19,3 +21,4 @@ If not explicitly stated otherwise all the files in this project are distributed
 ## Author
 
 Filippo Ghibellini
+Tom Meyers ( conversion to tos)
