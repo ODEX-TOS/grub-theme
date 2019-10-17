@@ -21,4 +21,5 @@ If not explicitly stated otherwise all the files in this project are distributed
 ## Author
 
 Filippo Ghibellini
+<br>
 Tom Meyers ( conversion to tos)
