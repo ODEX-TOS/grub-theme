@@ -5,7 +5,9 @@ based on Arch silent theme
 
 GRUB2 compliant theme.
 
-<img src="./preview.png" width="400">
+<p align="center">
+  <img src="./preview.png" width="400">
+</p>
 
 ## Font
 
